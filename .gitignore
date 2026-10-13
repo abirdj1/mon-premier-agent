@@ -1,0 +1,10 @@
+   # Ne jamais publier les clés API
+   .env
+   
+   # Fichiers temporaires générés par le code
+   temp_request.json
+   
+   # Fichiers système Python
+   __pycache__/
+   *.py[cod]
+   *$py.class
